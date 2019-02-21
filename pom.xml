@@ -9,23 +9,23 @@
     <version>18.02</version>
     <name>Atlassian CommonMark - Extension - MermaidJS</name>
     <description>commonmark-java extension for MermaidJS</description>
-    <url>https://github.com/0xbaadf00d/commonmark-ext-mermaidjs</url>
+    <url>https://github.com/thibaultmeyer/commonmark-ext-mermaidjs</url>
 
     <scm>
-        <connection>scm:git:https://github.com/0xbaadf00d/commonmark-ext-mermaidjs.git</connection>
-        <developerConnection>scm:git:https://github.com/0xbaadf00d/commonmark-ext-mermaidjs.git</developerConnection>
-        <url>https://github.com/0xbaadf00d/commonmark-ext-mermaidjs.git</url>
+        <connection>scm:git:https://github.com/thibaultmeyer/commonmark-ext-mermaidjs.git</connection>
+        <developerConnection>scm:git:https://github.com/thibaultmeyer/commonmark-ext-mermaidjs.git</developerConnection>
+        <url>https://github.com/thibaultmeyer/commonmark-ext-mermaidjs.git</url>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/0xbaadf00d/commonmark-ext-mermaidjs/issues</url>
+        <url>https://github.com/thibaultmeyer/commonmark-ext-mermaidjs/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
     <licenses>
         <license>
             <name>The MIT License (MIT)</name>
-            <url>https://raw.githubusercontent.com/0xbaadf00d/commonmark-ext-mermaidjs/master/LICENSE</url>
+            <url>https://raw.githubusercontent.com/thibaultmeyer/commonmark-ext-mermaidjs/master/LICENSE</url>
         </license>
     </licenses>
 
